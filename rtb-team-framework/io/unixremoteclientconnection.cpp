@@ -37,6 +37,8 @@
 #include <sstream>
 #include <ios>
 
+#include <unistd.h>
+
 /**
  * Namespace
  */
